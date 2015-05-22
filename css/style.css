@@ -1,0 +1,32 @@
+body {
+  font-family: "verdana";
+  background-color: #474747;
+  padding: 20px 10px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+  background-color: #c0c0c0;
+  border-radius: 20px;
+}
+
+h5 {
+  text-align: center;
+}
+
+h2 {
+  background-color: #7b7e82;
+  Border-radius: 20px;
+  padding: 10px 10px;
+}
+
+.lesson-notes{
+  background-color: #c0c0c0;
+  Border-radius: 20px;
+}
+
+p {
+  margin: 10px;
+}
